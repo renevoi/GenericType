@@ -1,0 +1,15 @@
+
+Wsquid:S2864%"4Iterate over the "entrySet" instead of the "keySet".(Ş–È­şÿÿÿÿ8ŸÔÕü,
+U
+squid:S106""9Replace this use of System.out or System.err by a logger.(ÿ®Ái8ëÍşÔü,
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(®¢Û³úÿÿÿÿ8ú¦§Õü,
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ˆûÜÅúÿÿÿÿ8İŒÕü,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Äöüˆ8¢·šÓü,
+osquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Äöüˆ8†–Óü,
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã’†8û¨Óü,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8Â…åÒü,
